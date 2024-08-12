@@ -1,0 +1,28 @@
+.containerFooter {
+    display: flex;
+    max-width: 1030px;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.iconProfile {
+    width: 52px;
+    border-radius: 255px;
+}
+
+.containerThanks {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.containerImgs {
+    display: flex;
+    gap: 25px;
+}
+
+footer {
+    padding: 50px 0;
+    background: var(--grey-0)
+}

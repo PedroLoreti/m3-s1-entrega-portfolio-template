@@ -1,0 +1,23 @@
+.headerBorder {
+    border-bottom: 2px solid var(--color-primary);
+}
+.containerHeader {
+    display: flex;
+    align-items: center;
+    max-width: 1030px;
+    justify-content: space-between;
+    margin: 0 auto;
+    padding: 20px 0px;
+}
+
+.containerHeader button {
+    color: var(--grey-2);
+    background: transparent;
+    border: none;
+    padding: 0 12px;
+}
+
+
+.containerHeader button:hover {
+    color: white;
+}

@@ -1,0 +1,46 @@
+.containerSection {
+    border-bottom: 2px solid var(--color-tertiary-50);
+}
+
+.containerBanner {
+    max-width: 1030px;
+    margin: 0 auto;
+    padding: 98px 0px 98px 0px;
+    gap: 50px;
+}
+
+.containerIcon {
+    display: flex;
+    align-items: center;
+    gap: 29px;
+    padding-bottom: 30px;
+}
+
+.iconProfile {
+    width: 52px;
+    border-radius: 255px;
+}
+
+.containerSection h1 {
+    padding-bottom: 30px;
+}
+
+.containerButton {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    padding: 32px 0;
+    margin-bottom: 30px;
+}
+
+.containerButton button {
+    height: 40px;
+    padding: 0px 32px;
+
+    border: none;
+    color: white;
+    background: var(--color-primary);
+    border-radius: 8px;
+}
+
+

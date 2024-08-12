@@ -1,0 +1,17 @@
+.sectionProject {
+    background: var(--grey-0);
+}
+
+.containerProjectsSection {
+    max-width: 1030px;
+    margin: 0 auto;
+}
+
+.myProjects{
+    padding: 70px 0;
+    margin-bottom: 10px;
+}
+
+.titleProjects {
+    margin-bottom: 15px;
+}

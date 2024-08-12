@@ -1,0 +1,26 @@
+:root {
+    /* COLORS */
+    --color-primary: #623CEA;
+    --color-primary-50: #311E75;
+
+    --color-secondary: #50CF9A;
+    --color-secondary-50: #E5F8F0;
+
+    --color-tertiary: #FF577F;
+    --color-tertiary-50: #F8E5F3;
+
+    --color-quaternary: #506CCF;
+    --color-quaternary-50: #E5E9F8;
+
+
+    --facebook: #506CCF;
+    --instagram: #CF50AC;
+    --linkdin: #0E76A8;
+
+    --grey-4: #F8F9FA;
+    --grey-3: #868E96;
+    --grey-2: #868E96;
+    --grey-1: #121214;
+    --grey-0: #0A0A0B;
+}
+

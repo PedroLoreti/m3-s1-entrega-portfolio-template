@@ -1,0 +1,7 @@
+.containerContact {
+    max-width: 1030px;
+    margin: 150px auto;
+    display: flex;
+    justify-content: space-between;
+    gap: 120px;
+}

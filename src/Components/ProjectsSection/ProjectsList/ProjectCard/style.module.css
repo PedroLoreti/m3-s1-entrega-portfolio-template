@@ -1,0 +1,43 @@
+.containerLanguage {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin: 7px 0;
+}
+
+.language {
+    padding: 1px 8px;
+    background: var(--grey-1);
+    border-radius: 4px;
+}
+
+.descriptionProject {
+    margin: 13px 0;
+}
+
+.containerGitShare {
+    display: flex;
+    gap: 20px;
+}
+
+.containerGit {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+
+}
+
+.containerShare {
+    display: flex;
+    gap: 10px;
+}
+
+.liContainer {
+    width: 482px;
+    height: 226px;
+}
+
+.gitHub {
+    width: 19px;
+    height: 20px;
+}

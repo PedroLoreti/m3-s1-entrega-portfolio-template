@@ -1,0 +1,13 @@
+.containerProjects {
+    display: flex;
+    justify-content: space-between;
+    row-gap: 10px;
+    flex-wrap: wrap;
+}
+
+
+
+ul {
+    max-width: 1030px;
+    
+}

@@ -1,0 +1,34 @@
+.zapRedeSocial {
+    height: 26.465px;
+    padding: 20px;
+
+    border-radius: 8px;
+    background: linear-gradient(180deg, #50C571 0%, #50CF9A 100%);
+}
+
+.emailRedeSocial {
+    width: 23.525px;
+    height: 26.465px;
+    padding: 19px;
+
+    border-radius: 8px;
+    background: linear-gradient(180deg, #BD3B9B 0%, #EE5BC7 100%);
+}
+
+.linkinRedeSocial {
+    height: 26.465px;
+    padding: 20px;
+
+    border-radius: 8px;
+    background: linear-gradient(180deg, #4E73FF 0%, #506CCF 100%);
+}
+
+.containerRedeSociais {
+    display: flex;
+    gap: 30px;
+    margin-bottom: 50px;
+}
+
+.descriptionRedes {
+    padding: 19px 0;
+}

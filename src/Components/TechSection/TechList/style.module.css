@@ -1,0 +1,5 @@
+.containerTech {
+    display: flex;
+    gap: 32px;
+    padding-left: 4px;
+}
