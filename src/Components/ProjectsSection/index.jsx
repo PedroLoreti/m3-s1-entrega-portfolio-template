@@ -1,5 +1,5 @@
 import { ProjectsList } from "./ProjectsList"
-import styles from './style.module.css'
+import styles from "./style.module.css"
 
 export const ProjectsSection = () => {
 

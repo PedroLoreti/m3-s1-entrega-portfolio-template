@@ -1,4 +1,4 @@
-import { technologies } from '../../../data/technologies'
+import { technologies } from "../../../data/technologies"
 import { TechCard } from "./TechCard"
 import styles from "./style.module.css"
 

@@ -1,6 +1,6 @@
 import { ProjectCard } from "./ProjectCard"
 import { projects } from "../../../data/projects"
-import styles from './style.module.css'
+import styles from "./style.module.css"
 
 export const ProjectsList = () => {
 

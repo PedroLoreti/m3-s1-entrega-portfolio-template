@@ -1,20 +1,16 @@
-import { BannerSection } from "../../BannerSection"
-import { Contats } from "../../Contact"
 import { Footer } from "../../Footer"
 import { Header } from "../../Header"
-import { ProjectsSection } from "../../ProjectsSection"
 
 
-export const HomePage = () => {
+
+export const HomePage = ({ children }) => {
     return (
         <>
             <Header />
             <main>
-                <BannerSection />
-                <ProjectsSection />
-                <Contats />
+                {children}
             </main>
-            <Footer/>
+            <Footer />
         </>
 
     )
